@@ -3,7 +3,11 @@ Trained a linear regression model for Price Prediction according to the location
 
 Done:
 Data cleaning 
+
 Hot encoding 
+
 Outlier detection
+
 Dimensionality reduction
+
 GridSearchCV.
