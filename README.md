@@ -12,3 +12,7 @@ Outlier detection
 Dimensionality reduction
 
 GridSearchCV.
+\\ 
+Python flask for http server\\
+
+HTML/CSS/Javascript for UI
